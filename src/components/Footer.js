@@ -12,7 +12,7 @@ const Footer=()=>{
       };
     return(
         <div className="w-full bg-[#011B5B] px-28 py-9 max-lg:px-9 max-sm:px-2">
-            <div className="flex justify-between w-full max-lg:flex-wrap max-lg:justify-center max-lg:gap-5">
+            <div className="flex justify-between  w-full max-lg:flex-wrap max-lg:justify-center max-lg:gap-5">
               <div className="w-[20%] max-lg:w-[100%] ">
                 <p className="text-[16px] text-[#AAB5CD]  max-lg:text-[15px]">Design outstanding interfaces with advanced Figma features in a matter of minutes.</p>
                 <div className="flex gap-5 text-[#FFFFFF] mt-3 ">
@@ -22,7 +22,7 @@ const Footer=()=>{
                 <FontAwesomeIcon icon={faInstagram} className="text-[25px] max-lg:text-[20px]" />
                 </div>
               </div>
-               <div className="flex gap-5 max-md:flex-wrap">
+               <div className="flex justify-between w-[70%] gap-5 max-md:flex-wrap  max-md:w-[100%]">
               <div className=" ">
                 <h1 className="text-[16px] text-[#FFA229] font-bold pb-2 max-lg:text-[14px]">START A BUSINESS</h1>
                 <h2 className="text-[#AAB5CD]">Features</h2>
