@@ -6,7 +6,7 @@ const SectionOne=()=>{
     return(
         <div
         style={{
-            backgroundImage: "url('/images/section.png')",
+            backgroundImage: "url('/images/Section.png')",
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
