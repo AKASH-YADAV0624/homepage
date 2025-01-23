@@ -1,3 +1,21 @@
+#Homepage Project
+This project is a responsive homepage built with React and TailwindCSS. The homepage includes a fully responsive navigation bar, a contact section with social media icons, and various components that adapt to different screen sizes.
+
+#Features
+Responsive Navbar:
+Hamburger menu for mobile view.
+Social media icons: Facebook, Instagram, Twitter, Pinterest.
+Contact details: Email and phone number.
+
+#Technologies Used
+React: A JavaScript library for building user interfaces.
+TailwindCSS: A utility-first CSS framework for custom designs.
+FontAwesome: For adding icons (e.g., social media, hamburger menu).
+
+Getting Started
+Prerequisites
+Make sure you have Node.js and npm installed on your computer. You can check if you have them installed by running the following commands:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
