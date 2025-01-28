@@ -90,11 +90,13 @@ const Navbar = ({ sections }) => {
 
           {/* Hamburger Icon (Mobile) */}
           <button
-            className="lg:hidden text-xl text-red-600"
-            onClick={toggleMobileMenu}
-          >
-            <FontAwesomeIcon icon={isMobileMenuOpen ? faXmark : faBars} />
-          </button>
+  className="lg:hidden text-xl text-black"
+  onClick={toggleMobileMenu}
+  aria-label={isMobileMenuOpen ? "Close mobile menu" : "Open mobile menu"}
+>
+  <FontAwesomeIcon icon={isMobileMenuOpen ? faXmark : faBars} />
+</button>
+
 
           {/* Search and Talk Button (Desktop Only) */}
           <div className="hidden lg:flex items-center gap-5">

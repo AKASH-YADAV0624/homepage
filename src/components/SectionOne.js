@@ -14,8 +14,7 @@ const SectionOne=()=>{
         className="w-full ">
             <div className=" w-[70vw]  py-16 pl-24 max-md:pl-9 max-md:w-full max-sm:px-2 max-sm:py-5">
                         <h4 className="text-[14px] font-semibold" ><FontAwesomeIcon icon={faStar} className="text-yellow-400" />  Google Rating   <FontAwesomeIcon icon={faStar} className="text-yellow-400" /><FontAwesomeIcon icon={faStar} className="text-yellow-400" /><FontAwesomeIcon icon={faStar} className="text-yellow-400" /><FontAwesomeIcon icon={faStar} className="text-yellow-400" /><FontAwesomeIcon icon={faStar} className="text-yellow-400" /> </h4>
-            <h1 className="text-[48.3px] font-semibold max-sm:text-[30px]">Your trusted partner</h1>
-            <h1 className="text-[48.3px] font-semibold max-sm:text-[30px]">for compliance business needs</h1>
+            <h1 className="text-[48.3px] font-semibold max-sm:text-[30px]">Your trusted partner for compliance business needs</h1>
             <p className="w-[43vw] text-[#333333] text-[20px] pt-5 max-md:w-[90%] max-sm:text-[15px]">An online business compliance platform that helps entrepreneurs and other individuals with various,<span className="text-[#4F4F4F] font-bold">registrations</span> ,<span className="text-[#4F4F4F] font-bold">tax filings</span> , and other <span className="text-[#4F4F4F] font-bold">legal matters</span>.</p>
            
 
@@ -26,7 +25,7 @@ const SectionOne=()=>{
                 <FontAwesomeIcon icon={faTableCellsLarge} className="w-full h-full" />
                     </div>
                 <div>
-                    <h1 className="text-xl font-extrabold bg-gradient-to-r text-transparent bg-clip-text from-[#FFA229] to-[#1C4670]">4.5+</h1>
+                    <h2 className="text-xl font-extrabold bg-gradient-to-r text-transparent bg-clip-text from-[#FFA229] to-[#1C4670]">4.5+</h2>
                     <p className="text-[#4F4F4F]">Customer Rating</p>
                 </div>
                 </div>
@@ -36,7 +35,7 @@ const SectionOne=()=>{
                 <FontAwesomeIcon icon={faUsers}  className="w-full h-full" />
                     </div>
                 <div>
-                    <h1 className="text-xl font-extrabold bg-gradient-to-r text-transparent bg-clip-text from-[#FFA229] to-[#1C4670]">20,000+</h1>
+                    <h2 className="text-xl font-extrabold bg-gradient-to-r text-transparent bg-clip-text from-[#FFA229] to-[#1C4670]">20,000+</h2>
                     <p className="text-[#4F4F4F]">Clients</p>
                 </div>
                 </div>
@@ -46,7 +45,7 @@ const SectionOne=()=>{
                 <FontAwesomeIcon icon={faHandshake}  className="w-full h-full" />
                     </div>
                 <div>
-                    <h1 className="text-xl font-extrabold bg-gradient-to-r text-transparent bg-clip-text from-[#FFA229] to-[#1C4670]">99.8%</h1>
+                    <h2 className="text-xl font-extrabold bg-gradient-to-r text-transparent bg-clip-text from-[#FFA229] to-[#1C4670]">99.8%</h2>
                     <p className="text-[#4F4F4F]">Financial Stability</p>
                 </div>
                 </div>
