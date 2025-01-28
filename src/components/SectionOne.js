@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const SectionOne=()=>{
     return(
-        <div
+        <div id="home"
         style={{
             backgroundImage: "url('/images/Section.png')",
             backgroundSize: "cover",
@@ -19,7 +19,7 @@ const SectionOne=()=>{
             <p className="w-[43vw] text-[#333333] text-[20px] pt-5 max-md:w-[90%] max-sm:text-[15px]">An online business compliance platform that helps entrepreneurs and other individuals with various,<span className="text-[#4F4F4F] font-bold">registrations</span> ,<span className="text-[#4F4F4F] font-bold">tax filings</span> , and other <span className="text-[#4F4F4F] font-bold">legal matters</span>.</p>
            
 
-            <div className="flex justify-between w-[75vh] mt-5 max-sm:flex-col max-sm:gap-2 max-sm:justify-normal">
+            <div className="flex justify-between w-[75vh] mt-5 max-sm:flex-col max-sm:gap-2 max-sm:justify-normal max-sm:w-[100%]">
                 <div className="flex items-center gap-2 ">
                     <div  className="w-[30px] h-[35px] text-[#4F4F4F]">
 

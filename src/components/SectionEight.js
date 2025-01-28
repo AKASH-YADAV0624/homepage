@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const SectionEight=()=>{
     return(
-        <div className="flex flex-col w-full items-center py-5 px-24 max-md:px-9 max-sm:px-2">
+        <div id="blog" className="flex flex-col w-full items-center py-5 px-24 max-md:px-9 max-sm:px-2">
           <div className="flex flex-col items-center">
           <h1 className="text-[14px] text-[#EB8D15] text-[normal]">EXPLORE OUR BLOGS</h1>
           <h1 className="text-[32px] text-[#3C2109] font-bold py-2 text-center">Accelerate Digital Transformation</h1>

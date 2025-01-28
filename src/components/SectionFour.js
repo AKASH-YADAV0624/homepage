@@ -2,7 +2,7 @@ import React from "react";
 
 const SectionFour=()=>{
     return(
-       <div className="flex justify-between w-full px-24 py-24 max-lg:flex-col max-md:py-9 max-md:px-9 max-sm:px-2 max-sm:py-5">
+       <div id="about" className="flex justify-between w-full px-24 py-24 max-lg:flex-col max-md:py-9 max-md:px-9 max-sm:px-2 max-sm:py-5">
               <div className="w-[45%] max-lg:w-[100%]">
               <h1 className="text-[14px] text-[#EB8D15] text-[normal]">WELCOME TO REGISTERKARO.IN</h1>
               <h1 className="text-[32px] text-[#272D37] font-bold py-5">About <span className="text-[#EB8D15]">Register Karo</span> </h1>

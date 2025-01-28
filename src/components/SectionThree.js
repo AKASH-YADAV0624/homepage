@@ -2,7 +2,7 @@ import React from "react";
 
 const SectionThree=()=>{
     return(
-        <div className="flex flex-col items-center justify-center w-full  bg-[#FAFAFA] pt-9">
+        <div id="services" className="flex flex-col items-center justify-center w-full  bg-[#FAFAFA] pt-9">
             <h1 className="text-[14px] text-[#EB8D15] text-[normal]">WELCOME TO REGISTERKARO.IN</h1>
             <h1 className="text-[32px] text-[#272D37] font-bold py-2 max-sm:text-center">Explore Our Services</h1>
             <div className="flex flex-wrap items-center justify-center">
